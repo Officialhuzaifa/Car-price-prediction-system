@@ -1,0 +1,1 @@
+**Car Price Prediction System** is a machine learning-based application that estimates the resale value of vehicles based on factors like brand, model, year, mileage, fuel type, and market trends. It uses historical data and predictive algorithms to provide accurate price suggestions, helping buyers and sellers make informed decisions.
